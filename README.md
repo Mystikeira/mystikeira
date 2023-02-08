@@ -5,7 +5,7 @@ Olá!! Eu sou o Mystikeira 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mystikeira&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystikeira&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
 <div style="display: inline_block"><br>
 <img align= "center" alt="mysti-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align= "center" alt="mysti-ts" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -22,7 +22,7 @@ Olá!! Eu sou o Mystikeira 👋
   <a href = "mailto:mystikeira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
           
-          
+</div>
